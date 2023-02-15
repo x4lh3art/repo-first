@@ -2,4 +2,4 @@ Click==7.0
 Flask==1.1.1
 Flask-Executor==0.9.3
 itsdangerous==1.1.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
